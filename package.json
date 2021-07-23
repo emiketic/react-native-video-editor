@@ -1,8 +1,9 @@
 {
   "name": "react-native-video-editor",
-  "version": "0.2.0",
-  "description": "",
-  "repository": "MostWantIT/react-native-video-editor",
+  "version": "0.3.0",
+  "description": "React Native Video",
+  "homepage": "https://github.com/emiketic/react-native-video-editor.git/blob/master/README.md",
+  "repository": "https://github.com/emiketic/react-native-video-editor.git",
   "author": "",
   "main": "index.js",
   "scripts": {
